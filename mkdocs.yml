@@ -44,4 +44,9 @@ nav:
       - License: LICENSE.txt
       - Caseum fonts: design/fonts.md
       - Caseum colors: design/colors/colors.md
-      - Introduction slides (PDF): presentations/introduction.pdf
+      - Introduction slides:
+        - PDF: presentations/introduction.pdf
+        - HTML: presentations/introduction.html
+        - Quarto source: presentations/introduction.qmd
+        - PowerPoint: presentations/introduction.pptx
+        - Keynote: presentations/introduction.key
