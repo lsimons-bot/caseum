@@ -8,6 +8,14 @@ You could read the [GitHub Docs Contributing Guide](https://github.com/github/do
 
 Since this is a small hobby project, your contribution may not be noticed for a while if we are busy elsewhere. Sorry!
 
+## Quarto
+
+The [introduction presentation](docs/presentations/introduction.qmd) is built with [Quarto](https://quarto.org/).
+
+Run `quarto render docs/presentations/introduction.qmd` to render.
+
+(The presentation is modified so rarely the outputs are checked into git.)
+
 ## MkDocs
 
 This site is built with [MkDocs](https://www.mkdocs.org/).
